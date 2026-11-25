@@ -33,3 +33,11 @@ Olá! Sou o Delosmar, um desenvolvedor em formação apaixonado por tecnologia. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="SQL" />
 </div>
+<br>
+
+### 📊 Estatísticas no GitHub
+
+<div align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dellpb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellpb&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</div>
