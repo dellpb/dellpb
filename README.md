@@ -31,7 +31,7 @@ Olá! Sou o Delosmar, um desenvolvedor em formação apaixonado por tecnologia. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" alt="GitHub" style="background-color: white; border-radius: 50%;" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="SQL" />
+ <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="45" alt="GitHub" />&nbsp;&nbsp;
 </div>
 <br>
 
